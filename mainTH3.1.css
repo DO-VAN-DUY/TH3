@@ -1,0 +1,267 @@
+body
+{
+    font-family: Arial;
+    font-size: 15px;
+}
+
+#wrapper
+{
+    width: 960px;
+    height: 1450px;
+    margin: 0px auto;
+}
+#header
+{
+    width: 960px;
+    height: 70px;
+}
+span
+{
+    color: mediumblue;
+}
+ul li
+{
+    float: left;
+}
+.noidung
+{
+    width: 550px;
+    height: auto;
+    float: left;
+}
+ul#main_menu li
+{
+    list-style: none;/*bỏ chấm đen*/
+}
+ul#main_menu li a
+{
+    padding: 15px 15px;/*Cách các loại trên dưới trái phải*/
+    text-decoration: none;/*bỏ gạch chân trong thẻ A*/
+    color:rgb(213, 216, 207);/*đổi màu*/
+    background-color: #000;
+}
+#slide img
+{
+    width: 960px;
+    height: 200px;
+}
+.float-left
+{   width: 100%;
+    height: 700px;
+    float: left;
+}
+.float-left h3
+{
+  width: 150px;
+  color:azure;
+  background-color: red;
+}
+.float-left h2
+{   width: 570px;
+    border-bottom: 2px solid rgb(0, 24, 104);
+}
+#nd1
+{ 
+     width: 200px;
+    float: left;
+}
+#nd1 img
+{
+     width: 200px;
+     height: 200px;
+}
+#nd1 a
+{
+  text-decoration: none;
+  color: #000;
+}
+#nd2
+{
+    width: 100px;
+    float: left;
+}
+#nd2 img
+{
+    width: 100px;
+    height: 90px;
+    margin-left: 10px;
+
+}
+#nd2 hr
+{ 
+    margin-left: 10px;
+    width: 360px;
+}
+.nd2_1
+{
+
+    float: left;
+    width: 200px;
+}
+.nd2_1 p 
+{
+    width: 250px;
+    height: 120px;
+    margin-left:20px;
+
+}
+.nd2_1 a
+{
+text-decoration: none;
+color: black;
+}
+#xem
+{ overflow:scroll;/*thẻ cuộn*/
+    float: right;
+}
+.float
+{
+    width: 100%;
+    float: left;
+}
+.float h3
+{
+    color: azure;
+    background-color:coral;
+    width: 150px;
+    height: 30px;
+    
+}
+.float h2
+{
+    border-bottom:2px solid coral
+
+}
+#noidung2
+{
+    width: 500px;
+    height: 300px;
+}
+#noidung2 img{
+    width: 200px;
+    height: 100px;
+}
+#IT
+{  float: left;
+    height: 150px;
+}
+#IT a 
+{
+    text-decoration: none;
+    color:darkgreen;
+}
+
+#olympic
+{
+    
+   float: right;
+    height: 150px;
+}
+#olympic a 
+{
+    text-decoration: none;
+    color: rgb(3, 3, 143);
+}
+#giaitri 
+{
+    float: left;
+    height: 100px;
+   
+}
+#giaitri a
+{
+    color:darkgreen;
+   text-decoration: none;
+}
+#khoahoc 
+{
+    float: right;
+    height: 100px;
+}
+#khoahoc a
+{
+    text-decoration: none;
+    color: rgb(3, 3, 143);
+}
+.float-right 
+{
+    float: left;
+    width: 200px;
+    margin-left: 40px;
+}
+.float-right p 
+{
+    color: azure;
+
+}
+.float-right p a
+{
+  text-decoration: none;
+  color:azure;
+}
+.float-right ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+#Thôngbao
+{
+    width: 200px;
+    height: 450px;
+}
+
+#a 
+{  color: azure ;
+    text-decoration: none;
+    height: 30px;
+   background-color:mediumblue;
+}
+#b
+{
+    color: azure ;
+    text-decoration: none;
+    height: 30px;
+   background-color:red;
+}
+#c 
+{
+    color: azure ;
+    text-decoration: none;
+    height: 30px;
+    background-color: royalblue;
+}
+#d 
+{
+    color: azure ;
+    text-decoration: none;
+    height: 30px;
+    background-color: orangered;
+}
+#e 
+{
+    color: azure ;
+    text-decoration: none;
+    height: 30px;
+    background-color: rgb(4, 0, 250);
+}
+#g 
+{
+    color: azure ;
+    text-decoration: none;
+    height: 30px;
+    background-color: rgb(83, 0, 104);
+}
+#h 
+{
+    color: azure ;
+    text-decoration: none;
+    height: 30px;
+    background-color: rgb(4, 0, 250);
+}
+#footent
+{
+    width: 960px;
+    margin: 0px auto;
+    height: 70px;
+    background-color: dimgray;
+}
